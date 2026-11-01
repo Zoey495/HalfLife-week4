@@ -191,4 +191,4 @@ Alright I finished the PCB today -->
 
 I'm still not sure what the module header is for...
 
-I figure that out tomorrow with the code.
+I'll figure that out tomorrow with the code.
